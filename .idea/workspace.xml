@@ -1,7 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:heroku" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="07212232-d135-4cda-b0c9-4b6329a3a726" name="Default Changelist" comment="" />
+    <list default="true" id="07212232-d135-4cda-b0c9-4b6329a3a726" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/mei.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bot.py" beforeDir="false" afterPath="$PROJECT_DIR$/bot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/embedlinks.py" beforeDir="false" afterPath="$PROJECT_DIR$/embedlinks.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,9 +51,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/bot.py" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="D:/Drawings/Hanako/RoF Scanlations/TencentComicBook-master" />
   </component>
   <component name="RunManager">
     <configuration name="bot" type="PythonConfigurationType" factoryName="Python">
@@ -65,30 +93,38 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="228" y="126" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590071396069">
+    <state width="1515" height="164" key="GridCell.Tab.0.bottom" timestamp="1604236988301">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="228" y="126" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1590071396069" />
-    <state x="1098" y="375" key="FileChooserDialogImpl" timestamp="1590071352789">
+    <state width="1515" height="164" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1604236988301" />
+    <state width="1515" height="164" key="GridCell.Tab.0.center" timestamp="1604236988300">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="1098" y="375" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1590071352789" />
-    <state width="831" height="164" key="GridCell.Tab.0.bottom" timestamp="1590147640496">
+    <state width="1515" height="164" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1604236988300" />
+    <state width="1515" height="164" key="GridCell.Tab.0.left" timestamp="1604236988300">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="831" height="164" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1590147640496" />
-    <state width="831" height="164" key="GridCell.Tab.0.center" timestamp="1590147640496">
+    <state width="1515" height="164" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1604236988300" />
+    <state width="1515" height="164" key="GridCell.Tab.0.right" timestamp="1604236988300">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="831" height="164" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1590147640496" />
-    <state width="831" height="164" key="GridCell.Tab.0.left" timestamp="1590147640496">
+    <state width="1515" height="164" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1604236988300" />
+    <state x="578" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604236891946">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="831" height="164" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1590147640495" />
-    <state width="831" height="164" key="GridCell.Tab.0.right" timestamp="1590147640496">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="831" height="164" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1590147640496" />
+    <state x="578" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1604236891946" />
   </component>
 </project>
