@@ -32,6 +32,16 @@ async def colorpage(ctx):
     await ctx.send(embed=embed)
 
 @client.command()
+async def test(ctx):
+    chosen_image = random.choice(embedlinks.test)
+
+    embed = discord.Embed(timestamp=datetime.datetime.utcnow())
+    embed.set_image(url=chosen_image)
+    embed.set_footer(text=f"Requested by : {ctx.author.name}")
+
+    await ctx.send(embed=embed)
+
+@client.command()
 async def aidairo(ctx):
     chosen_image = random.choice(embedlinks.illust)
 

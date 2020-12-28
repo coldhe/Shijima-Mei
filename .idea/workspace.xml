@@ -20,10 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07212232-d135-4cda-b0c9-4b6329a3a726" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/mei.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/mei.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bot.py" beforeDir="false" afterPath="$PROJECT_DIR$/bot.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/embedlinks.py" beforeDir="false" afterPath="$PROJECT_DIR$/embedlinks.py" afterDir="false" />
@@ -106,22 +107,22 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1515" height="164" key="GridCell.Tab.0.bottom" timestamp="1604236988301">
+    <state width="1515" height="164" key="GridCell.Tab.0.bottom" timestamp="1604258874697">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1515" height="164" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1604236988301" />
-    <state width="1515" height="164" key="GridCell.Tab.0.center" timestamp="1604236988300">
+    <state width="1515" height="164" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1604258874697" />
+    <state width="1515" height="164" key="GridCell.Tab.0.center" timestamp="1604258874697">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1515" height="164" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1604236988300" />
-    <state width="1515" height="164" key="GridCell.Tab.0.left" timestamp="1604236988300">
+    <state width="1515" height="164" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1604258874697" />
+    <state width="1515" height="164" key="GridCell.Tab.0.left" timestamp="1604258874697">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1515" height="164" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1604236988300" />
-    <state width="1515" height="164" key="GridCell.Tab.0.right" timestamp="1604236988300">
+    <state width="1515" height="164" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1604258874697" />
+    <state width="1515" height="164" key="GridCell.Tab.0.right" timestamp="1604258874697">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1515" height="164" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1604236988300" />
+    <state width="1515" height="164" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1604258874697" />
     <state x="578" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604236891946">
       <screen x="0" y="0" width="1536" height="864" />
     </state>

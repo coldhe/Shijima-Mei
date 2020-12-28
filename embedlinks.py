@@ -27,7 +27,19 @@ images = ["https://cdn.discordapp.com/attachments/712622411001888828/71297647234
 "https://cdn.discordapp.com/attachments/712622411001888828/712976959826558986/27.png",
 "https://cdn.discordapp.com/attachments/712622411001888828/712976969184182292/28.png",
 "https://cdn.discordapp.com/attachments/712622411001888828/712976977505812480/29.png",
-"https://cdn.discordapp.com/attachments/712622411001888828/712976993096040538/30.png"]
+"https://cdn.discordapp.com/attachments/712622411001888828/712976993096040538/30.png",
+"https://cdn.discordapp.com/attachments/772459873795178506/772459926336700416/31.png",
+"https://cdn.discordapp.com/attachments/772459873795178506/772459993177391114/32.png",
+"https://cdn.discordapp.com/attachments/772459873795178506/772460029139877888/33.png",
+"https://cdn.discordapp.com/attachments/772459873795178506/772460029134635008/34.png",
+"https://cdn.discordapp.com/attachments/772459873795178506/772460045815644191/35.png",
+"https://cdn.discordapp.com/attachments/772459873795178506/772460035267362826/36.png",
+"https://cdn.discordapp.com/attachments/772459873795178506/772459997451649044/37.png",
+"https://cdn.discordapp.com/attachments/772459873795178506/772460048051863552/38.png",
+"https://cdn.discordapp.com/attachments/772459873795178506/772459999385092136/39.png",
+"https://cdn.discordapp.com/attachments/772459873795178506/772459957958082560/40.png"
+        ]
+test = ["https://cdn.discordapp.com/attachments/772459873795178506/772459957958082560/40.png"]
 
 illust = [
 "https://cdn.discordapp.com/attachments/712622411001888828/713276597087764530/image_1.jpg",
