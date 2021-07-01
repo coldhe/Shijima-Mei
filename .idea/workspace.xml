@@ -21,7 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="07212232-d135-4cda-b0c9-4b6329a3a726" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/embedlinks.py" beforeDir="false" afterPath="$PROJECT_DIR$/embedlinks.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +38,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="2b72dc83-85e6-4086-80c8-440beb0c66d7" />
+  </component>
   <component name="ProjectId" id="1cDlpoVgG7lhlTvj2u3hTdYOeDx" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -51,6 +53,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunManager">
     <configuration name="bot" type="PythonConfigurationType" factoryName="Python">
@@ -121,5 +124,13 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1515" height="164" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1625167115673" />
+    <state x="196" y="84" key="SettingsEditor" timestamp="1625176503736">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="196" y="84" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1625176503736" />
+    <state x="566" y="334" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1625176013467">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="566" y="334" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.864@0.0.1536.864" timestamp="1625176013467" />
   </component>
 </project>
