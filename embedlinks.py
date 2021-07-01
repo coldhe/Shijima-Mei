@@ -39,7 +39,6 @@ images = ["https://cdn.discordapp.com/attachments/712622411001888828/71297647234
 "https://cdn.discordapp.com/attachments/772459873795178506/772459999385092136/39.png",
 "https://cdn.discordapp.com/attachments/772459873795178506/772459957958082560/40.png"
         ]
-test = ["https://cdn.discordapp.com/attachments/772459873795178506/772459957958082560/40.png"]
 
 illust = [
 "https://cdn.discordapp.com/attachments/712622411001888828/713276597087764530/image_1.jpg",
