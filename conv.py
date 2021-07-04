@@ -1,4 +1,4 @@
-reponses = [
+responses = [
             "I am School Mystery No. 4, Mei Shijima. It is my job to serve as a guide for this museum.",
             "A research found that learning and practising art strongly correlates with a higher achievement in reading and maths.",
             "Painting the Mona Lisa’s lips took Leonardo da Vinci 12 years! Only the lips!",
