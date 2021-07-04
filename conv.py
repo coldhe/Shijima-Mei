@@ -42,7 +42,7 @@ reponses = [
             "Everything my clones experience... becomes part of my memories as well.",
             "It will be hard to fix this if you limit yourself to the realm of the living.",
             "I never wanted to be one of the Seven School Mysteries anyway.",
-            "Mei Shijima hoped to live another day. THat's why I exist.",
+            "Mei Shijima hoped to live another day. That's why I exist.",
             "I'm sorry. I made you play along with my worthless fiction all this time.",
             "...You're welcome.",
             "You are on my canvas. I am always watching you.",
