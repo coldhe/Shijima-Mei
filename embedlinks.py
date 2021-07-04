@@ -752,5 +752,29 @@ kitsune = [
 
 ]
 
-
+dmld = [
+"https://cdn.discordapp.com/attachments/734616250722025495/860947533354500116/00.png",
+"https://cdn.discordapp.com/attachments/734616250722025495/860947533979451472/01.png",
+"https://cdn.discordapp.com/attachments/734616250722025495/860947534851342356/02.png",
+"https://cdn.discordapp.com/attachments/734616250722025495/860947536164552704/03.png",
+"https://cdn.discordapp.com/attachments/734616250722025495/860947536557375538/04.png",
+"https://cdn.discordapp.com/attachments/734616250722025495/860947538538266634/05.png",
+"https://cdn.discordapp.com/attachments/734616250722025495/860947539137921034/06.png",
+"https://cdn.discordapp.com/attachments/734616250722025495/860947541939191848/07.jpeg",
+"https://cdn.discordapp.com/attachments/734616250722025495/860947542413279232/08.png",
+"https://cdn.discordapp.com/attachments/734616250722025495/860947543311253504/09.png",
+"https://cdn.discordapp.com/attachments/734616250722025495/860947782117752873/10.png",
+"https://cdn.discordapp.com/attachments/734616250722025495/860947785318924318/11.png",
+"https://cdn.discordapp.com/attachments/734616250722025495/860947951820210196/12.png",
+"https://cdn.discordapp.com/attachments/734616250722025495/860948071545962556/13.png",
+"https://cdn.discordapp.com/attachments/734616250722025495/860947598097645578/14.png",
+"https://cdn.discordapp.com/attachments/734616250722025495/860947605365719080/15.png",
+"https://cdn.discordapp.com/attachments/734616250722025495/860950731325440030/16.png",
+"https://cdn.discordapp.com/attachments/734616250722025495/860950071217487932/17.png",        
+"https://cdn.discordapp.com/attachments/734616250722025495/860948866362507324/75.png",
+"https://cdn.discordapp.com/attachments/734616250722025495/860948703610535956/375.png",
+"https://cdn.discordapp.com/attachments/734616250722025495/861095205964873758/16.png",
+"https://cdn.discordapp.com/attachments/734616250722025495/861095208540176394/17.png",
+"https://cdn.discordapp.com/attachments/734616250722025495/861095211354816562/18.png"        
+    ]
 
