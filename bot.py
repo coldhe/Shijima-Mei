@@ -73,7 +73,7 @@ async def kitsune(ctx):
 
 @client.command()
 async def meichan(ctx):
-        await ctx.send(random.choice(conv.reponses))
+        await ctx.send(random.choice(conv.responses))
 
 
 
